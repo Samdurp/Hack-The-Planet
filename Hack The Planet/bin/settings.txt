@@ -1,4 +1,0 @@
-Settings - Music, Sound, Keybind. Respectively.
-0.7000000476837158
-0.8000000715255737
- 
